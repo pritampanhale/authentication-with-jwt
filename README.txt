@@ -12,3 +12,5 @@ There are two rest point which are exposed.
 
 You can read more about this on - https://dzone.com/articles/spring-boot-security-json-web-tokenjwt-hello-world
 And https://jwt.io/
+
+Please share your ideas or correct the code wherever you feel. Happy to learn more from you!
